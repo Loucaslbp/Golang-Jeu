@@ -1,0 +1,18 @@
+{
+    "DebugMode": false,
+    "NumTileX": 30,
+    "NumTileY": 20,
+    "TileSize": 64,
+    "NumCharacterAnimImages": 4,
+    "NumTileForDebug": 6,
+    "CameraMode": 1,
+
+    "PlayerName": "Loucas",
+    "PlayerSkin": 1,
+    "PlayerSpawnX": 0,
+    "PlayerSpawnY": 0,
+    "CanStackPlayer": false,
+    "GameType": "load",
+    "GameDir": "../floor-dir/map1",
+    "Seed": 31415
+}

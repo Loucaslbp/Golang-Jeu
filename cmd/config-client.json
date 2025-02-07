@@ -1,0 +1,17 @@
+{
+    "DebugMode": false,
+    "NumTileX": 30,
+    "NumTileY": 20,
+    "TileSize": 64,
+    "NumCharacterAnimImages": 4,
+    "NumTileForDebug": 6,
+    "CameraMode": 1,
+
+    "PlayerName": "Félix",
+    "PlayerSkin": 2,
+    "PlayerSpawnX": 0,
+    "PlayerSpawnY": 0,
+    "CanStackPlayer": false,
+    "GameType": "join",
+    "ServerAddr": "localhost:5060"
+}
