@@ -16,7 +16,7 @@ Avant de commencer, assurez-vous que votre machine dispose des éléments suivan
 
 1. Clonez ce dépôt sur votre machine en utilisant la commande suivante :
 
-   git clone https://github.com/Loucaslbp/Game-Golang.git
+   git clone [https://github.com/Loucaslbp/Game-Golang.git](https://github.com/Loucaslbp/Golang-Jeu.git)
    
 2. Accédez au répertoire cloné :
     
